@@ -1,0 +1,34 @@
+{
+  "name": "html-tag-types",
+  "version": "0.0.1",
+  "description": "Types for html tags",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikalexxx/html-tag-types.git"
+  },
+  "keywords": [
+    "html",
+    "tags",
+    "types",
+    "attributes",
+    "svg"
+  ],
+  "author": "Alexandr Nikolaichev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikalexxx/html-tag-types/issues"
+  },
+  "homepage": "https://github.com/nikalexxx/html-tag-types#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
